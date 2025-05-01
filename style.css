@@ -18,7 +18,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 .background-section {
-  background-image: url("/image/hero-img.jpg");
+  background-image: url("image/hero-img.jpg");
   height: 75rem;
   width: 100%;
   filter: blur(20px);
